@@ -1,2 +1,0 @@
-Error in fetching Travel Cost data The process cannot access the file 'C:\UserDrive\GHB1COB\SmartLab_2023\Master\SmartLab_SourceCode\SmartLab\SLCockpitLog\log07032023.txt' because it is being used by another process. 3/7/2023 4:31:05 PM
-

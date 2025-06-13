@@ -1,2 +1,0 @@
-Error in fetching Travel Cost data The process cannot access the file 'C:\OIG1COB_work\BitBucket_SmartLab_Mar31_2023_UserAcceptanceTest\Master\SmartLab_SourceCode\SmartLab\SLCockpitLog\log04042023.txt' because it is being used by another process. 4/4/2023 7:30:18 PM
-

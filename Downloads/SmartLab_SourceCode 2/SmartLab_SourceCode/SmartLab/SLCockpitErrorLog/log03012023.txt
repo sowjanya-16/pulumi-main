@@ -1,2 +1,0 @@
-Error in fetching HW Damage totals: The process cannot access the file 'C:\MAE9COB\LatestSLSoln\SMARTLAB_SOURCECODE_SL2022.11.B\Master\SmartLab_SourceCode\SmartLab\SLCockpitLog\log03012023.txt' because it is being used by another process. 1/3/2023 1:37:45 PM
-

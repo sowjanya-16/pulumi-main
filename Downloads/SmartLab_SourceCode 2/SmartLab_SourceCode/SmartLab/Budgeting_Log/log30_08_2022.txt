@@ -1,7 +1,0 @@
-*********** Budgeting VKM  *********8/30/2022 2:17:32 PM
-
-*********** Budgeting VKM  *********8/30/2022 5:39:04 PM
-
-Error - Lookup : NTID - MAE9COB, ErrorMsg : System.NullReferenceException: Object reference not set to an instance of an object.
-   at LC_Reports_V1.Controllers.BudgetingVKMController.LookupVKM(String year) in C:\MAE9COB\LatestSLSoln\June2022_SLSoln_proj\LC_Reports_V1\LC_Reports_V1\Controllers\BudgetingVKMController.cs:line 9610, At - 8/30/2022 5:39:10 PM
-

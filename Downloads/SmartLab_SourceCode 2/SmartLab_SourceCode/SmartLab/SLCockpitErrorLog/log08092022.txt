@@ -1,2 +1,0 @@
-Error in fetching Head Count Chart data The process cannot access the file 'C:\MAE9COB\LatestSLSoln\June2022_SLSoln_proj\LC_Reports_V1\LC_Reports_V1\SLCockpitLog\log08092022.txt' because it is being used by another process. 9/8/2022 1:19:42 PM
-

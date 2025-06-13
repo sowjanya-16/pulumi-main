@@ -1,8 +1,0 @@
-Error in fetching Head Count Chart data The process cannot access the file 'C:\MAE9COB\LatestSLSoln\June2022_SLSoln\LC_Reports_V1\LC_Reports_V1\SLCockpitLog\log26072022.txt' because it is being used by another process. 7/26/2022 3:20:39 PM
-
-Error in fetching Head Count Chart data The process cannot access the file 'C:\MAE9COB\LatestSLSoln\June2022_SLSoln\LC_Reports_V1\LC_Reports_V1\SLCockpitLog\log26072022.txt' because it is being used by another process. 7/26/2022 3:44:30 PM
-
-Error in fetching Travel Cost data The process cannot access the file 'C:\MAE9COB\LatestSLSoln\June2022_SLSoln\LC_Reports_V1\LC_Reports_V1\SLCockpitLog\log26072022.txt' because it is being used by another process. 7/26/2022 4:16:52 PM
-
-Error in fetching Travel Cost data The process cannot access the file 'C:\MAE9COB\LatestSLSoln\June2022_SLSoln\LC_Reports_V1\LC_Reports_V1\SLCockpitLog\log26072022.txt' because it is being used by another process. 7/26/2022 4:25:45 PM
-

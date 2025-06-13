@@ -1,6 +1,0 @@
-Error in fetching Infra Utilisation: Could not find stored procedure 'dbo.GetInfraUtilization_MSR'. 10/11/2022 8:12:47 PM
-
-Error in fetching HW Damage totals: The process cannot access the file 'C:\MAE9COB\LatestSLSoln\June2022_SLSoln_proj\LC_Reports_V1\LC_Reports_V1\SLCockpitLog\log11102022.txt' because it is being used by another process. 10/11/2022 8:13:03 PM
-
-Error in fetching Infra Utilisation: Could not find stored procedure 'dbo.GetInfraUtilization_MSR'. 10/11/2022 8:13:03 PM
-

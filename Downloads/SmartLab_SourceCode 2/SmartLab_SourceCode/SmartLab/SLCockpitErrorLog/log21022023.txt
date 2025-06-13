@@ -1,2 +1,0 @@
-Error in fetching Head Count Chart data The process cannot access the file 'C:\UserDrive\GHB1COB\SmartLab_2023\Master\SmartLab_SourceCode\SmartLab\SLCockpitLog\log21022023.txt' because it is being used by another process. 2/21/2023 5:42:47 PM
-

@@ -1,6 +1,0 @@
-Error in fetching Infra Utilisation: The process cannot access the file 'U:\New folder\SmartLab_SourceCode\LC_Reports_V1\SLCockpitLog\log21112022.txt' because it is being used by another process. 11/21/2022 1:50:54 PM
-
-Error in fetching Purchase Order Status data: The process cannot access the file 'U:\New folder\SmartLab_SourceCode\LC_Reports_V1\SLCockpitLog\log21112022.txt' because it is being used by another process. 11/21/2022 1:51:18 PM
-
-Error in fetching Infra Utilisation: The process cannot access the file 'U:\New folder\SmartLab_SourceCode\LC_Reports_V1\SLCockpitLog\log21112022.txt' because it is being used by another process. 11/21/2022 1:51:19 PM
-

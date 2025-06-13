@@ -1,9 +1,0 @@
-*********** Budgeting VKM  *********8/2/2022 12:00:20 AM
-
-************** Budgeting Request ************ 8/2/2022 12:02:31 AM
-
-*********** Budgeting VKM  *********8/2/2022 12:14:03 AM
-
-Error - ExportDataToExcel : NTID - MAE9COB, ErrorMsg : System.NullReferenceException: Object reference not set to an instance of an object.
-   at LC_Reports_V1.Controllers.BudgetingVKMController.ExportDataToExcel(String useryear) in C:\MAE9COB\LatestSLSoln\June2022_SLSoln_proj\LC_Reports_V1\LC_Reports_V1\Controllers\BudgetingVKMController.cs:line 99, At - 8/2/2022 12:16:27 AM
-

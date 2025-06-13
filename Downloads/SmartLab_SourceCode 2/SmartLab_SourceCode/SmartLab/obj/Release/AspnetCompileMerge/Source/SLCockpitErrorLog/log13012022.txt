@@ -1,4 +1,0 @@
-Error in fetching HW Damage totals: The process cannot access the file 'C:\USER_DRIVE\MAE9COB\Temp\FinalSL_DEC_final\LC_Reports_V1\LC_Reports_V1\Log\log13012022.txt' because it is being used by another process. 1/13/2022 6:08:03 PM
-
-Error in fetching HW Damage totals: The process cannot access the file 'C:\USER_DRIVE\MAE9COB\Temp\FinalSL_DEC_final\LC_Reports_V1\LC_Reports_V1\Log\log13012022.txt' because it is being used by another process. 1/13/2022 6:14:04 PM
-

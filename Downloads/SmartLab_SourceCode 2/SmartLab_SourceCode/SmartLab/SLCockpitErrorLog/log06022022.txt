@@ -1,4 +1,0 @@
-Error in fetching Purchase Order Status data: The process cannot access the file 'C:\USER_DRIVE\MAE9COB\Temp\FinalSL_JAN_final\LC_Reports_V1\LC_Reports_V1\Log\log06022022.txt' because it is being used by another process. 2/6/2022 7:57:58 AM
-
-Error in fetching Head Count Chart data The process cannot access the file 'C:\USER_DRIVE\MAE9COB\Temp\FinalSL_JAN_final\LC_Reports_V1\LC_Reports_V1\Log\log06022022.txt' because it is being used by another process. 2/6/2022 11:39:44 AM
-

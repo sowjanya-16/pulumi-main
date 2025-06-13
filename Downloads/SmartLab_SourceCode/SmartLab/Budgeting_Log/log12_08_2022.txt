@@ -1,7 +1,0 @@
-************** Budgeting Request ************ 8/12/2022 12:03:57 PM
-
-************** Budgeting Request ************ 8/12/2022 12:04:24 PM
-
-Error - InitRowValues : NTID - MAE9COB, ErrorMsg : System.NullReferenceException: Object reference not set to an instance of an object.
-   at LC_Reports_V1.Controllers.BudgetingRequestController.GetReviewer_HoE(Int32 DEPT) in C:\MAE9COB\LatestSLSoln\June2022_SLSoln_proj\LC_Reports_V1\LC_Reports_V1\Controllers\BudgetingRequestController.cs:line 2482, At - 8/12/2022 12:04:57 PM
-

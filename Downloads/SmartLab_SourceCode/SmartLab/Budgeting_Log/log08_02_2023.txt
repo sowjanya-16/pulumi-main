@@ -1,7 +1,0 @@
-*********** Budgeting VKM  *********2/8/2023 4:31:10 PM
-
-Error - GetData1 - data fetch loop : NTID - GHB1COB, ErrorMsg : System.FormatException: Input string was not in a correct format.
-   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
-   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
-   at LC_Reports_V1.Controllers.BudgetingVKMController.GetData1(String year) in C:\UserDrive\GHB1COB\SmartLab_2023\Master\SmartLab_SourceCode\SmartLab\Controllers\BudgetingVKMController.cs:line 6297, At - 2/8/2023 4:33:05 PM
-

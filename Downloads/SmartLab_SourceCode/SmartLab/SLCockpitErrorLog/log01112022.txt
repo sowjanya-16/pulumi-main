@@ -1,4 +1,0 @@
-Error in fetching HW Damage chart data: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached. 11/1/2022 11:51:15 AM
-
-Error in fetching HW Damage totals: The process cannot access the file 'C:\MAE9COB\LatestSLSoln\June2022_SLSoln_proj\LC_Reports_V1\LC_Reports_V1\SLCockpitLog\log01112022.txt' because it is being used by another process. 11/1/2022 11:51:17 AM
-
